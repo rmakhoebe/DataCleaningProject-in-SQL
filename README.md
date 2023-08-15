@@ -1,4 +1,4 @@
-# SQLPortfolioProject
+# DataCleaningProject
 
 The main objective of this project is to use some SQL functions to clean the data and make it more usable.
 
